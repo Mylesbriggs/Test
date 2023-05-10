@@ -5,7 +5,10 @@ body{
     background-color: aquamarine;
     width: 500px;
     height: 700px;
+
 }
 img{
     width: 400px;
+    border-radius: 20px;
+    border: solid thick aqua;
 }
